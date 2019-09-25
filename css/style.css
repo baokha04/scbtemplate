@@ -1,0 +1,156 @@
+.s-main-content{
+    margin: 0 auto;
+    width: 1600px;
+    min-height: 600px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.s-header {
+    width: 80%;
+    height: 85px;
+    padding: 10px 0;
+    margin: 0 auto;
+}
+.s-logo{
+    width: 25%;
+    height: 85px;
+    background: url("../img/logo.PNG") no-repeat;
+    float: left;
+}
+.s-nav{
+    width: 45%;
+    height: 85px;
+    float: left;
+}
+.s-notify{
+    width: 30%;
+    height: 85px;
+    float: left;
+}
+.s-carousel{
+    width: 100%;
+    height: 715px;
+    background: url("../img/carousel.PNG") no-repeat;
+}
+.s-nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0 10px;
+}
+.s-nav ul li{
+    float: left;
+    width: 180px;
+    height: 85px;
+    text-align: center;
+    line-height: 85px;
+}
+.s-nav ul li a{
+    text-decoration: none;
+    color: #5a6978;
+    font-size: 18px;
+    font-weight: 500;
+    height: 85px;
+    text-align: center;
+    
+}
+.s-icon{
+    float: left;
+    width: 50px;
+    height: 85px;
+}
+.s-icon-portals{
+    background: url("../img/portals-icon.PNG") no-repeat center;
+}
+.s-icon-apps{
+    background: url("../img/apps-icon.PNG") no-repeat center;
+}
+.s-icon-settings{
+    background: url("../img/settings-icon.PNG") no-repeat center;
+}
+.s-icon-skype{
+    background: url("../img/skype-icon.PNG") no-repeat center;
+}
+.s-icon-notify{
+    background: url("../img/notify-icon.PNG") no-repeat center;
+}
+.s-icon-calendar{
+    background: url("../img/calendar-icon.PNG") no-repeat center;
+}
+.s-notify ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0 10px;
+}
+.s-notify ul li{
+    float: left;
+}
+.s-separator .s-icon{
+    width: 0;
+    height: 25px;
+    border-right: 1px solid #bfd6ea;
+    margin: 30px 0;
+}
+.s-user-info{
+    width: 200px;
+    height: 85px;
+    font-size: 14px;
+    margin-left: 10px;
+    margin-top: 26px;
+}
+.s-user-info .s-user-name{
+    font-weight: 700;
+    color: #005caa;
+}
+.s-user-info .s-user-position{
+    color: #999;
+}
+.s-user-info .s-user-image{
+    width: 35px;
+    height: 35px;
+    float: right;
+    border-radius: 35px;
+    margin-top: -33px;
+}
+.s-summary{
+    width: 100%;
+    background-color: #f6f6f6;
+    overflow: auto;
+}
+.s-summary-content{
+    width: 80%;
+    margin: 0 auto;
+}
+.s-summary-info{
+    float: left;
+    padding: 0 10px;
+}
+.s-circle{
+    width: 15px;
+    height: 15px;
+    border-radius: 15px;    
+    margin: 35px auto;
+}
+.s-summary-info .s-description{
+    display: inline-block;
+    margin-top: 25px;
+}
+.s-bg-green{
+    background-color: #16ab3c;
+}
+.s-bg-yellow{
+    background-color: #ffc82c;
+}
+.s-more{
+    color: #005caa;
+}
+.s-news{
+    width: 80%;
+}
+.s-reuters{
+    width: 15%;
+}
+.s-stocks{
+    width: 25%;
+}
+.s-scb{
+    width: 60%;
+}
